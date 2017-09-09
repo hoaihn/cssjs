@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-		$("#myModal").html("<a href='http://monngonnhahoaiblogspot.vn' target='_blank'><img src='https://3.bp.blogspot.com/-k0HbZxjsnUQ/WbPPPMv_ouI/AAAAAAAAINg/xXXHWr3d9wEoGhsJQ3iPKe5ZG9_HhXihgCLcBGAs/s1600/bun-oc.jpg' width='500px'/><br/>Thực phẩm miền Bắc -cung cấp bởi Nhà Hoài/a>. LH:0913116471. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+		$("#myModal").html("<a href='http://monngonnhahoaiblogspot.vn' target='_blank'><img src='https://3.bp.blogspot.com/-k0HbZxjsnUQ/WbPPPMv_ouI/AAAAAAAAINg/xXXHWr3d9wEoGhsJQ3iPKe5ZG9_HhXihgCLcBGAs/s1600/bun-oc.jpg' width='500px'/><br/>Thực phẩm miền Bắc -cung cấp bởi Nhà Hoài</a>. LH:0913116471. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
